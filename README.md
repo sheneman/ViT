@@ -1,2 +1,2 @@
 # ViT
-Vision Transformer Tech Talk
+An implementation of a Vision Transformer (ViT)
