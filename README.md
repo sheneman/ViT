@@ -1,2 +1,2 @@
 # ViT
-An implementation of a Vision Transformer (ViT)
+An implementation of Vision Transformers from scratch

@@ -1,0 +1,8 @@
+venv/*
+data/*
+data2/
+bup/*
+models/*
+*.pt
+__pycache__/*
+__pycache__
